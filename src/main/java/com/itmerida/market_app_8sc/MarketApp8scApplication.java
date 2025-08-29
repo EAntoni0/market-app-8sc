@@ -9,7 +9,7 @@ public class MarketApp8scApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MarketApp8scApplication.class, args);
 
-		
+		 int num1 = 19;
 
 	}
 
